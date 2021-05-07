@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Alvin Jin</h1>
+  <p>I'm ready for summer!</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Facts about me.</h3>
+      <p>Hi, my name is Alvin Jin. I am a freshman at Cal State Long Beach.</p>
+      <p>I am majoring in pre-computer science, and do not know what to do with my degree after I graduate.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Music</h3>
+      <p>My music is taste is everywhere, but it really depends on the mood and the time of the day.</p>
+      <p>My favorite artists are Juice WRLD, Jhene Aiko, and Nipsey Hussle.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Activities</h3>        
+      <p>I like to go work out at the gym, go to the beach, but I most importantly enjoy going outside.</p>
+      <p>I plan to go out a lot during the summer time, maybe some camping or even a roadtrip. The future awaits!</p>
+      <p>Created by <a href="mailto:Alvin.Jin01@student.csulb.edu">Alvin Jin</a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
